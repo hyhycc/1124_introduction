@@ -1,9 +1,0 @@
-flask
-gunicorn
-requests
-folium
-geocoder
-apscheduler
-sqlalchemy
-PyMySQL
-matplotlib
